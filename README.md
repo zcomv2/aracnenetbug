@@ -34,6 +34,7 @@ Inspiration from:
 
 ![Aracne Net Bug 27](https://lab.psy-k.org/fotos/Aracne-ANB-27.png)
 
-https://www.youtube.com/watch?v=NubECaT_R3c
+[![Watch the video](https://img.youtube.com/vi/NubECaT_R3c/maxresdefault.jpg)](https://www.youtube.com/watch?v=NubECaT_R3c)
+
 
 
