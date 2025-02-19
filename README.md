@@ -28,6 +28,8 @@ The extracted data is structured and saved into a JSON file (resultados.json).
 The user can access this file to review the filtered information.
 This initial phase establishes the foundation for future expansions, enabling data-driven intelligence and preparing the system for advanced functionalities such as pattern analysis, psychological countermeasures, and network infiltration strategies. 🚀
 
+Project Status: In Development
+
 Inspiration from:
 
 https://www.youtube.com/watch?v=NubECaT_R3c
