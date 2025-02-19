@@ -1,4 +1,4 @@
-# aracnenetbug
+# Aracne Net Bug
 Aracne Net Bug [ANB-27] 🕷️💻 Aracne Net Bug is a cyberpunk-inspired, ethical information gathering and analysis bot. It uses search engines to extract relevant data, filters content based on keywords, and stores results for analysis. Designed to evolve into psychological countermeasures and strategic dismantling. 🚀
 
 Aracne Net Bug [ANB-27] is a cyberattack tool designed to infiltrate and dismantle the networks of corrupt corporations and governments that exploit society and the planet's resources. Its code is darker and more lethal than the systems it combats, penetrating digital infrastructures with devastating precision. It does not target individuals, only entities that operate in the shadows with aims of domination and exploitation. Its advanced AI scans, identifies, and destroys critical control points, returning power to those who have been oppressed. Aracne Net Bug is the nightmare of the corrupt, a virus born from chaos to punish their own evil.
